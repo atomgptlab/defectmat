@@ -6,3 +6,5 @@ References:
 2. [Accelerating defect predictions in semiconductors using graph neural networks](https://pubs.aip.org/aip/aml/article/2/1/016122/3279661)
    
 (More details coming soon!)
+
+Note: This project was originally developed under the github.com/usnistgov organization and is now maintained here by the lead developer.
